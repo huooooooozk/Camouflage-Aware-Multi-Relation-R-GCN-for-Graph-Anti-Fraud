@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Project artifacts
+data/
+outputs/
+*.bin
+*.pt
+*.parquet
+*.csv
+!figures/*.csv
+
+# Local config
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store

@@ -1,0 +1,11 @@
+torch>=1.13
+dgl>=1.1
+numpy
+pandas
+scikit-learn
+lightgbm
+networkx
+python-louvain
+matplotlib
+requests
+pyarrow
